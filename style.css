@@ -5,7 +5,7 @@ h1{
     
     font-size: 60px;
 }
-.color{
+#color{
     color: rgb(63, 128, 128);
 }
 p{
@@ -21,7 +21,7 @@ section{
     padding: 70px;
 }
 .hulf-wigth img{
-    width: 50%;
+    width: 100%;
 }
 a{
     background-image: linear-gradient(rgb(120, 120, 216), rgb(13, 54, 54));
@@ -57,7 +57,7 @@ a{
     width: 35%;
 }
 .wigth-of-img img{
-    width: 50%;
+    width: 100%;
 }
 .wigth-of-img{
     width: 50%;
@@ -78,5 +78,10 @@ h2{
     text-align: center;
     
 }
-
+#fonts{
+    font-style: italic;
+}
+#border{
+    box-shadow: 10px rgb(52, 52, 119);
+}
 
