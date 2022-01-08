@@ -28,3 +28,29 @@ a{
     text-decoration: none;
     font-weight: 700;
 }
+.mission{
+    font-family: 'PT Serif', serif;
+    font-size: 40px;
+    color: darkblue;
+    text-align: center;
+}
+#colorid{
+    color: darkgoldenrod;
+}
+.boxShadow{
+    box-shadow: 10px 5px 5px rgb(134, 134, 134);
+    padding: 20px;
+   width: 40%;
+}
+#mcolor{
+    background-color: lightgray;
+}
+#vcolor{
+    background-color: lightsalmon;
+}
+#gcolor{
+    background-color: khaki;
+}
+.boxShadow img{
+    width: 35%;
+}
